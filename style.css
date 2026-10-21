@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+box-sizing: border-box;
+}
+
+#nav{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+
+}
+#img{
+padding: 25px;
+
+}
+.navlinks> a{
+     color: white;
+     font-size: 25px;
+     text-decoration: none;
+     gap: 25px;
+      margin-right: 20px;
+    
+}    
+
+button{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 150px;
+    height: 80px;
+    border-radius: 50px;
+}
+h1{
+    text-align: center;
+color: aliceblue;
+margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 15px;
+}
+body{
+    background-color: black;
+}
+#moon{
+    text-decoration: underline;
+}
+.you{
+    height: 20px;
+    width: 5px;
+}
+#story{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    
+}
+.createcards{
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+.createcard{
+   height: 150px;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+
+  
+}
+.createcardss{
+     height: 150px;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.createcardds{
+     height: 150px;
+    width: 300px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#SUN{
+    text-decoration: underline;
+    margin-top: 100PX;
+    font: size 1000px;
+    font: weight 900%;;
+}
+.son{
+      text-decoration: underline;
+    font: size 1000px;
+    font: weight 900%;;
+}
+#me{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+    display: flex;
+    
+}
+.who
+{
+    color: aliceblue;
+    font-size: larger;
+}
+#hi{
+    color: brown;
+}
+#me >.who > #hi{
+    margin: 20px;
+}
+#boy{
+    color: aliceblue;
+    margin-left: 20px;
+    font-size: larger;  
+    flex-wrap: nowrap;
+ 
+
+
+    
+}
+#boy  >h1 {
+ margin-right: 850px; 
+ margin-bottom: 20px;  
+}
+#boy > h2{
+    margin-right: 850px; 
+ margin-bottom: 20px;  
+}
+#boy  >img{
+position: absolute;
+margin-left: 500px;
+margin-bottom: 800px;
+}
+ #footer{
+    margin-right: 200px;
+    margin: top 250px;
+}
